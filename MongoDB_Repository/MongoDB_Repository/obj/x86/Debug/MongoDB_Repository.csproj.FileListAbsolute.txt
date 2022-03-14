@@ -1,0 +1,11 @@
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Bson.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Driver.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Form1.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Properties.Resources.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.pdb

@@ -1,0 +1,213 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoDatabase">
+      <Item value="CreateCollection`0" priority="0" />
+      <Item value="GetCollection`0" priority="4" />
+      <Item value="FetchDBRefAs`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="collection" priority="13" />
+      <Item value="Radnik`0" priority="16" />
+      <Item value="new" priority="16" />
+      <Item value="Radnik" priority="4" />
+      <Item value="Adresa" priority="0" />
+      <Item value="List&lt;string&gt;" priority="3" />
+      <Item value="var" priority="13" />
+      <Item value="QueryDocument`0" priority="0" />
+      <Item value="foreach" priority="12" />
+      <Item value="BsonDocument`0" priority="1" />
+      <Item value="in" priority="12" />
+      <Item value="MessageBox`0" priority="12" />
+      <Item value="radnik" priority="9" />
+      <Item value="Query`0" priority="7" />
+      <Item value="Update`0" priority="2" />
+      <Item value="using" priority="2" />
+      <Item value="MongoDB" priority="2" />
+      <Item value="Driver" priority="2" />
+      <Item value="Builders" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="BsonValue`0" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="query" priority="1" />
+      <Item value="Create`0" priority="2" />
+      <Item value="r" priority="8" />
+      <Item value="SortBy`0" priority="0" />
+      <Item value="public" priority="5" />
+      <Item value="ObjectId`0" priority="0" />
+      <Item value="Sektor`0" priority="10" />
+      <Item value="db" priority="6" />
+      <Item value="Sektor" priority="0" />
+      <Item value="Naziv" priority="0" />
+      <Item value="sek" priority="5" />
+      <Item value="radniciMongoDBCursor" priority="0" />
+      <Item value="Radnici" priority="0" />
+      <Item value="List&lt;MongoDBRef&gt;" priority="0" />
+      <Item value="MongoDBRef" priority="1" />
+      <Item value="sektoriCollection" priority="9" />
+      <Item value="radniciCollection" priority="4" />
+      <Item value="s" priority="2" />
+      <Item value="MongoDBRef`0" priority="0" />
+      <Item value="radnikRef" priority="1" />
+      <Item value="querySektor" priority="0" />
+      <Item value="updateSektor" priority="0" />
+      <Item value="MongoCursor`0" priority="0" />
+      <Item value="sektori" priority="0" />
+      <Item value="removeSektorQuery" priority="0" />
+      <Item value="sektoriTest" priority="0" />
+      <Item value="BsonArray`0" priority="0" />
+      <Item value="BsonDocumentWrapper`0" priority="0" />
+      <Item value="UpdateFlags`0" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="from" priority="1" />
+      <Item value="select" priority="2" />
+      <Item value="where" priority="2" />
+      <Item value="result" priority="0" />
+      <Item value="orderby" priority="0" />
+      <Item value="descending" priority="0" />
+      <Item value="result2" priority="1" />
+      <Item value="join" priority="0" />
+      <Item value="on" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="FindAndModifyResult`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoCollection`1">
+      <Item value="Insert`0" priority="3" />
+      <Item value="Find`0" priority="4" />
+      <Item value="Update`0" priority="3" />
+      <Item value="Remove`0" priority="3" />
+      <Item value="Count`0" priority="0" />
+      <Item value="FindAll`0" priority="8" />
+      <Item value="FindOneAs`0" priority="0" />
+      <Item value="RemoveAll`0" priority="1" />
+      <Item value="Save`0" priority="1" />
+      <Item value="AsQueryable`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MongoDB.Driver.Builders.Query">
+      <Item value="All`0" priority="0" />
+      <Item value="EQ`0" priority="3" />
+      <Item value="And`0" priority="0" />
+      <Item value="LT`0" priority="0" />
+      <Item value="Not`0" priority="1" />
+      <Item value="In`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Bson.BsonValue">
+      <Item value="AsString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB_Repository.Radnik">
+      <Item value="ime" priority="6" />
+      <Item value="oznake" priority="0" />
+      <Item value="prezime" priority="4" />
+      <Item value="Id" priority="2" />
+      <Item value="Sektor" priority="3" />
+      <Item value="Plata" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MongoDB.Driver.Builders.Update">
+      <Item value="Set`0" priority="1" />
+      <Item value="AddToSetWrapped`1" priority="2" />
+      <Item value="SetWrapped`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MongoDB.Bson.BsonValue">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoCursor`1">
+      <Item value="SetLimit`0" priority="1" />
+      <Item value="SetSkip`0" priority="1" />
+      <Item value="SetSortOrder`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MongoDB.Driver.Builders.SortBy">
+      <Item value="Descending`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB_Repository.Sektor">
+      <Item value="Radnici" priority="2" />
+      <Item value="Id" priority="4" />
+      <Item value="Naziv" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoCursor">
+      <Item value="Count`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MongoDB.Bson.BsonDocument">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MongoDB.Driver.MongoDBRef">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Count`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Sektor.cs" caret="315" fromTop="13" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Radnik.cs" caret="492" fromTop="18" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="894" fromTop="32" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="5668" fromTop="27" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="4779" fromTop="15" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="5818" fromTop="28" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="5145" fromTop="24" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="6027" fromTop="24" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Sektor.cs" caret="134" fromTop="5" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Radnik.cs" caret="134" fromTop="6" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="5924" fromTop="13" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Sektor.cs" caret="422" fromTop="17" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Radnik.cs" caret="487" fromTop="18" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="6379" fromTop="17" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7037" fromTop="26" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="6560" fromTop="14" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7037" fromTop="33" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7421" fromTop="39" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7697" fromTop="28" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="1247" fromTop="7" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7829" fromTop="23" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="6960" fromTop="24" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="6873" fromTop="24" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="6960" fromTop="17" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7610" fromTop="30" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="7294" fromTop="38" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="223" fromTop="9" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="8341" fromTop="20" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="9346" fromTop="32" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="8914" fromTop="36" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="8276" fromTop="18" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="9323" fromTop="33" />
+      <File id="61E84F15-0814-4FCF-A1DD-34EBFC1A5985/f:Form1.cs" caret="9323" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.4.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

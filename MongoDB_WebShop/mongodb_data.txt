@@ -1,0 +1,17 @@
+db.products.insert({"_id":1, "name":"Red Grocery Bag", "imageURL":"1.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":70.00});
+db.products.insert({"_id":2, "name":"Reusable Grocery Bag", "imageURL":"2.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":70.00});
+db.products.insert({"_id":3, "name":"White Grocery Bag", "imageURL":"3.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":50.00});
+db.products.insert({"_id":4, "name":"Yellow Grocery Bag", "imageURL":"4.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":90.00});
+db.products.insert({"_id":5, "name":"Reusable Green Bag", "imageURL":"5.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":6, "name":"Reusable Grocery Bag", "imageURL":"6.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":7, "name":"White Grocery Bag", "imageURL":"7.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":8, "name":"Reusable Grocery Bag", "imageURL":"8.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":9, "name":"Blue Shirt", "imageURL":"9.jpg", "tags":["shopping shirts", "shopping", "shirts", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":10, "name":"Green Large Shirt", "imageURL":"10.jpg", "tags":["shopping shirts", "shopping", "shirts", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":11, "name":"White Grocery Bag", "imageURL":"11.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":12, "name":"Black Large Shirt", "imageURL":"12.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":13, "name":"Red Large Shirt", "imageURL":"13.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":14, "name":"Green Large Shirt", "imageURL":"14.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":15, "name":"Blue Large Shirt", "imageURL":"15.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+db.products.insert({"_id":16, "name":"Fancy Large Shirt", "imageURL":"16.jpg", "tags":["shopping bag", "shopping", "bag", "merchandise", "consumerism", "gift"], "price":80.00});
+
